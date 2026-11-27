@@ -86,3 +86,9 @@ Para Python, cada pared bloquea el paso entre las dos casillas del borde. Los bo
 El modelo [Spaceship](https://poly.pizza/m/xNbtFQwirO) fue creado por Quaternius y se distribuye bajo la licencia [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Se importó en formato OBJ para usarlo con el importador de Unity, conservando los dos materiales del modelo original.
 
 En `SampleScene`, `EvacuationZones` agrupa las zonas `North`, `East`, `South` y `West`, frente a `Door9`, `Door10`, `Door11` y `Door12`, respectivamente. Cada zona tiene una instancia de `Spaceship` orientada hacia su compuerta y situada sobre `ExteriorFloor`, el perímetro visual de 4.5 unidades hecho con el piso de Kenney. El perímetro queda fuera de las 48 casillas de simulación.
+
+## Astronauta
+
+[Astronaut](https://poly.pizza/m/erlAEWfFKH3) fue creado por PW Wu y se distribuye bajo la licencia [Creative Commons Attribution 3.0 (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/). El proyecto conserva la geometría y los ocho colores del OBJ y su archivo de materiales original. Se agruparon las piezas para la importación y se ajustó la escala del prefab a 1.65 unidades de altura.
+
+En `SampleScene`, `Agents/Astronaut` es la instancia de prueba situada en la casilla `(3, 4)`.
