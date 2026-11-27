@@ -98,3 +98,9 @@ En `SampleScene`, `Agents/Astronaut1` a `Agents/Astronaut6` son las variantes ro
 [Alien Creature](https://poly.pizza/m/L0jsnfmLng) fue creado por antoine1germ y se distribuye bajo la licencia [Creative Commons Attribution 3.0 (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/). El prefab `Alien` conserva la geometría y los materiales originales del OBJ. Se ajustó su escala uniforme a 1.65 unidades de altura y se orientaron las instancias en diagonal para que los brazos extendidos queden dentro de los espacios.
 
 En `SampleScene`, las instancias de prueba están en `RescuedZone/Spot5` y `LostZone/Spot3`.
+
+## Meteorito
+
+[Asteroid 2](https://poly.pizza/m/yuCzypJ0w4) fue creado por J-Toastie y se distribuye bajo la licencia [Creative Commons Attribution 3.0 (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/). El prefab `Meteorite` usa el OBJ y el material del archivo original, que no incluye texturas de imagen. Se ajustó la escala y se agregó un efecto local de chispas.
+
+La instancia de prueba `Meteorites/Meteorite1` está en la casilla provisional `(5, 2)`.
