@@ -92,3 +92,9 @@ En `SampleScene`, `EvacuationZones` agrupa las zonas `North`, `East`, `South` y 
 [Astronaut](https://poly.pizza/m/erlAEWfFKH3) fue creado por PW Wu y se distribuye bajo la licencia [Creative Commons Attribution 3.0 (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/). El proyecto conserva la geometría y los ocho colores del OBJ y su archivo de materiales original. Se agruparon las piezas para la importación y se ajustó la escala del prefab a 3 unidades de altura.
 
 En `SampleScene`, `Agents/Astronaut1` a `Agents/Astronaut6` son las variantes roja, azul, amarilla, verde, naranja y morada. Sus casillas provisionales son `(2, 2)`, `(3, 4)`, `(2, 7)`, `(4, 2)`, `(5, 7)` y `(5, 4)`, respectivamente. El material del traje está separado de los detalles originales del casco, visor y mochila.
+
+## Extraterrestre
+
+[Alien Creature](https://poly.pizza/m/L0jsnfmLng) fue creado por antoine1germ y se distribuye bajo la licencia [Creative Commons Attribution 3.0 (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/). El prefab `Alien` conserva la geometría y los materiales originales del OBJ. Se ajustó su escala uniforme a 1.65 unidades de altura y se orientaron las instancias en diagonal para que los brazos extendidos queden dentro de los espacios.
+
+En `SampleScene`, las instancias de prueba están en `RescuedZone/Spot5` y `LostZone/Spot3`.
