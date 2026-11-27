@@ -22,3 +22,5 @@ newmtl mat18
 newmtl mat13
   Kd 1.00 0.33 0.00
 
+newmtl Suit
+  Kd 0.63 0.70 0.72
