@@ -1,0 +1,8 @@
+newmtl QuaterniusWhite
+Kd 0.820979874 0.820979874 0.820979874
+illum 2
+
+newmtl QuaterniusBlack
+Kd 0.153054155 0.153054155 0.153054155
+illum 2
+
